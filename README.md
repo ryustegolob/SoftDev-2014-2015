@@ -18,6 +18,12 @@ Language interpreter for snagging people from the internet. Searching for Spider
 We put together a blog using an SQL database where you can write posts and comment on them.
 #### https://github.com/cyntzhou/Blog.git
 
+### JSON / API Project
+#### Rebecca Yuste-Golob, Natan Zamansky
+#### Description
+This project will take Reddit's headlines, scour Yummly for an appropriate recipe for said headlines, and from Spotify gets a song that you can listen to while cooking!
+#### https://github.com/NZamansky/Project-That-Uses-A-Lot-Of-Data-To-Do-Nothing
+
 ## Mini Projects
 
  * login
