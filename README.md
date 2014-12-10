@@ -31,9 +31,11 @@ This project will take Reddit's headlines, scour Yummly for an appropriate recip
   * 6/login/benedicti_et_rebeccae
  * regexp
   * Rebecca Yuste-Golob, Adam DeHovitz
-	* 6/regexp/adam-rebecca
+  * 6/regexp/adam-rebecca
  * intro-proj 1
   * Rebecca Yuste-Golob, Cooper Weaver 
   * 6/intro-proj1/Weaver-Yuste
-
+ * invisible-cow
+  * Rebecca Yuste-Golob, Benedict Bolton
+  * 6/invisible-cow/Bolton-Yuste
 
