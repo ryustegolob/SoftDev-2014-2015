@@ -9,6 +9,7 @@ Period 6
 #### Rebecca Yuste-Golob, Natan Zamansky, Corrin Offenholley
 #### https://github.com/NZamansky/Free-Food-Finder
 
+
 ## Main Projects
 
 ### SoftDev Project1
