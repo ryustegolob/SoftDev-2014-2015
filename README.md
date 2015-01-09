@@ -4,6 +4,11 @@ Rebecca Yuste-Golob
 # Fall Semester
 Period 6
 
+## Final Project
+### Free Food Finder
+#### Rebecca Yuste-Golob, Natan Zamansky, Corrin Offenholley
+#### https://github.com/NZamansky/Free-Food-Finder
+
 ## Main Projects
 
 ### SoftDev Project1
